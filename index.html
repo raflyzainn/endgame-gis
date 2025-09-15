@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>WebGIS Kampus — Peta</title>
+
+    <!-- Tailwind -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <!-- MarkerCluster -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
+    <style>
+      #map { height: 100vh; } /* full page */
+      .leaflet-popup-content img { max-width: 240px; border-radius: 12px; display: block; }
+    </style>
+  </head>
+  <body class="bg-slate-50 text-slate-800">
+    <main class="relative">
+      <!-- PETA -->
+      <div id="map"></div>
+
+      <!-- Tombol Clues (digeser ke kanan dari kontrol zoom biar gak ketutup) -->
+      <button id="btn-clues"
+        class="absolute top-3 left-14 z-[999] rounded-md bg-white border border-slate-300 px-3 py-2 text-sm font-semibold shadow hover:bg-slate-100">
+        Clues 🔍
+      </button>
+
+      <!-- Drawer CLUES (desain simple) -->
+      <aside id="clue-drawer"
+        class="fixed top-0 right-0 z-[1000] h-full w-80 max-w-full translate-x-full bg-white border-l border-slate-200 shadow-xl transition-transform">
+        <div class="h-full flex flex-col">
+          <div class="flex items-center justify-between px-3 h-12 border-b border-slate-200">
+            <strong class="text-sm">CLUE ZONE</strong>
+            <div class="flex gap-2">
+              <button id="btn-shuffle" class="rounded border border-slate-300 px-2 py-1 text-xs">Shuffle</button>
+              <button id="btn-close" class="rounded border border-slate-300 px-2 py-1 text-xs">Close</button>
+            </div>
+          </div>
+          <div id="clue-list" class="flex-1 overflow-y-auto p-3 space-y-2 text-sm">
+            <!-- akan dirender via JS -->
+          </div>
+          <div class="p-3 text-[11px] text-slate-500 border-t border-slate-200">
+            Tip: tekan <kbd class="px-1 py-0.5 bg-slate-100 border rounded">Esc</kbd> untuk menutup panel.
+          </div>
+        </div>
+      </aside>
+
+      <!-- Toast kecil -->
+      <div id="toast" class="pointer-events-none fixed bottom-4 left-1/2 -translate-x-1/2 z-[999] hidden">
+        <div class="rounded-md bg-slate-900 text-white text-sm px-3 py-2 shadow">
+          <span id="toast-text"></span>
+        </div>
+      </div>
+    </main>
+
+    <!-- JS peta (cluster) -->
+    <script src="./assets/map.cluster.js"></script>
+
+    <!-- JS CLUES (simple) -->
+    <script>
+      // ===== DATA CLUES (silakan ubah) =====
+      const CLUES = [
+        { t: "Clue #1",  x: "📶 Wi-Fi kenceng, bunyi keyboard *tak tak*." },
+        { t: "Clue #2",  x: "📚 Dingin 17°C. Nyaris igloo." },
+        { t: "Clue #3",  x: "☕ Bau kopi menyerang dari kejauhan." },
+        { t: "Clue #4",  x: "🛗 Dekat lift, ada bunyi 'ting'." },
+        { t: "Clue #5",  x: "🌳 Banyak pohon. Burung ngetweet asli." },
+        { t: "Clue #6",  x: "🧱 Dinding bata merah nostalgia." },
+        { t: "Clue #7",  x: "🏀 Echo bola basket samar-samar." },
+        { t: "Clue #8",  x: "💡 Lampu neon panjang, vibes praktikum." },
+        { t: "Clue #9",  x: "🚧 Harusnya bebas motor… ya gitu deh." },
+        { t: "Clue #10", x: "🛰️ -6.97xx, 107.63xx (pelan-pelan ketiknya)." }
+      ];
+
+      // ===== Drawer behaviour (simple) =====
+      const drawer = document.getElementById('clue-drawer');
+      const btnOpen = document.getElementById('btn-clues');
+      const btnClose = document.getElementById('btn-close');
+      const btnShuffle = document.getElementById('btn-shuffle');
+      const list = document.getElementById('clue-list');
+
+      let order = CLUES.slice();
+
+      function renderClues() {
+        list.innerHTML = '';
+        order.forEach((c, i) => {
+          const item = document.createElement('details');
+          item.className = 'border border-slate-200 rounded p-2';
+          const sum = document.createElement('summary');
+          sum.className = 'cursor-pointer select-none font-semibold';
+          sum.textContent = `${c.t}`;
+          const p = document.createElement('p');
+          p.className = 'mt-1';
+          p.textContent = c.x;
+
+          // baris tools kecil
+          const tools = document.createElement('div');
+          tools.className = 'mt-2';
+          const btnCopy = document.createElement('button');
+          btnCopy.className = 'rounded border border-slate-300 px-2 py-1 text-xs';
+          btnCopy.textContent = 'Copy';
+          btnCopy.addEventListener('click', async (ev) => {
+            ev.stopPropagation();
+            try {
+              await navigator.clipboard.writeText(c.x);
+              showToast('Clue dicopy ✔');
+            } catch { showToast('Gagal copy'); }
+          });
+
+          tools.appendChild(btnCopy);
+          item.appendChild(sum);
+          item.appendChild(p);
+          item.appendChild(tools);
+          list.appendChild(item);
+        });
+      }
+
+      function openDrawer(){ drawer.classList.remove('translate-x-full'); }
+      function closeDrawer(){ drawer.classList.add('translate-x-full'); }
+
+      btnOpen.addEventListener('click', openDrawer);
+      btnClose.addEventListener('click', closeDrawer);
+      document.addEventListener('keydown', (e)=>{ if(e.key === 'Escape') closeDrawer(); });
+
+      btnShuffle.addEventListener('click', () => {
+        order = order.map(v => [Math.random(), v]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
+        renderClues();
+      });
+
+      // render awal
+      renderClues();
+
+      // ===== Toast mini =====
+      function showToast(text) {
+        const wrap = document.getElementById('toast');
+        const slot = document.getElementById('toast-text');
+        slot.textContent = text;
+        wrap.classList.remove('hidden');
+        clearTimeout(showToast._t);
+        showToast._t = setTimeout(()=>wrap.classList.add('hidden'), 1200);
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,4273 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62604085299115,
+          -6.971061143610601
+        ]
+      },
+      "properties": {
+        "title": "Titik #1",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6324588177125,
+          -6.96978510504999
+        ]
+      },
+      "properties": {
+        "title": "Titik #2",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62671692467791,
+          -6.975132218742614
+        ]
+      },
+      "properties": {
+        "title": "Titik #3",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62913552958793,
+          -6.97081870628101
+        ]
+      },
+      "properties": {
+        "title": "Titik #4",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63598681749889,
+          -6.970876868911116
+        ]
+      },
+      "properties": {
+        "title": "Titik #5",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63792689568467,
+          -6.98063621558966
+        ]
+      },
+      "properties": {
+        "title": "Titik #6",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62843958934897,
+          -6.979367958351313
+        ]
+      },
+      "properties": {
+        "title": "Titik #7",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63412732711534,
+          -6.974006855601489
+        ]
+      },
+      "properties": {
+        "title": "Titik #8",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63644654516271,
+          -6.9784481297167185
+        ]
+      },
+      "properties": {
+        "title": "Titik #9",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6279475764322,
+          -6.968202589546962
+        ]
+      },
+      "properties": {
+        "title": "Titik #10",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62597321255883,
+          -6.97316183184361
+        ]
+      },
+      "properties": {
+        "title": "Titik #11",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6276022445809,
+          -6.981670914951999
+        ]
+      },
+      "properties": {
+        "title": "Titik #12",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63150320213072,
+          -6.968420426128635
+        ]
+      },
+      "properties": {
+        "title": "Titik #13",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63377550723627,
+          -6.979391757635858
+        ]
+      },
+      "properties": {
+        "title": "Titik #14",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63650532493833,
+          -6.979691175360535
+        ]
+      },
+      "properties": {
+        "title": "Titik #15",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6370078253354,
+          -6.9742752295853965
+        ]
+      },
+      "properties": {
+        "title": "Titik #16",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63405193040659,
+          -6.975472632553224
+        ]
+      },
+      "properties": {
+        "title": "Titik #17",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6266861778095,
+          -6.971577526352152
+        ]
+      },
+      "properties": {
+        "title": "Titik #18",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63104435672008,
+          -6.972850915692782
+        ]
+      },
+      "properties": {
+        "title": "Titik #19",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62815824916864,
+          -6.971516579562642
+        ]
+      },
+      "properties": {
+        "title": "Titik #20",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63595475337286,
+          -6.980440635650495
+        ]
+      },
+      "properties": {
+        "title": "Titik #21",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63533688001804,
+          -6.978764737012565
+        ]
+      },
+      "properties": {
+        "title": "Titik #22",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63151955218342,
+          -6.978162828684588
+        ]
+      },
+      "properties": {
+        "title": "Titik #23",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63504985984517,
+          -6.981408253425641
+        ]
+      },
+      "properties": {
+        "title": "Titik #24",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62641783588784,
+          -6.975649311651103
+        ]
+      },
+      "properties": {
+        "title": "Titik #25",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63219246442104,
+          -6.969208943452159
+        ]
+      },
+      "properties": {
+        "title": "Titik #26",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62796008987223,
+          -6.979597613864145
+        ]
+      },
+      "properties": {
+        "title": "Titik #27",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6276986935229,
+          -6.970861474761005
+        ]
+      },
+      "properties": {
+        "title": "Titik #28",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62866336400747,
+          -6.974748260924409
+        ]
+      },
+      "properties": {
+        "title": "Titik #29",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63267557481232,
+          -6.978558963458469
+        ]
+      },
+      "properties": {
+        "title": "Titik #30",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63660953300665,
+          -6.969968587021999
+        ]
+      },
+      "properties": {
+        "title": "Titik #31",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62547537969296,
+          -6.968077165609099
+        ]
+      },
+      "properties": {
+        "title": "Titik #32",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63500679845292,
+          -6.974668490401135
+        ]
+      },
+      "properties": {
+        "title": "Titik #33",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63614144467559,
+          -6.974043228050141
+        ]
+      },
+      "properties": {
+        "title": "Titik #34",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62574539547126,
+          -6.9682478032873085
+        ]
+      },
+      "properties": {
+        "title": "Titik #35",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6290309036027,
+          -6.976681107451499
+        ]
+      },
+      "properties": {
+        "title": "Titik #36",
+        "description": "Titik uji sebaran luas kampus",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62566429447716,
+          -6.971223549821196
+        ]
+      },
+      "properties": {
+        "title": "Titik #37",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63698395584584,
+          -6.97334162678696
+        ]
+      },
+      "properties": {
+        "title": "Titik #38",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63096638134074,
+          -6.98136939227042
+        ]
+      },
+      "properties": {
+        "title": "Titik #39",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63700064359094,
+          -6.970976812031328
+        ]
+      },
+      "properties": {
+        "title": "Titik #40",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62826785499497,
+          -6.9728195171096345
+        ]
+      },
+      "properties": {
+        "title": "Titik #41",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6356036166942,
+          -6.980901277225533
+        ]
+      },
+      "properties": {
+        "title": "Titik #42",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63137030961418,
+          -6.980602157325504
+        ]
+      },
+      "properties": {
+        "title": "Titik #43",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6354963990654,
+          -6.9800113157326065
+        ]
+      },
+      "properties": {
+        "title": "Titik #44",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63088130251312,
+          -6.976336105642149
+        ]
+      },
+      "properties": {
+        "title": "Titik #45",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63767660226601,
+          -6.9814468039793445
+        ]
+      },
+      "properties": {
+        "title": "Titik #46",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6263847120924,
+          -6.973386979778008
+        ]
+      },
+      "properties": {
+        "title": "Titik #47",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63087822103972,
+          -6.977709621851405
+        ]
+      },
+      "properties": {
+        "title": "Titik #48",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63614054104963,
+          -6.968102817341937
+        ]
+      },
+      "properties": {
+        "title": "Titik #49",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6375773812468,
+          -6.973872404069521
+        ]
+      },
+      "properties": {
+        "title": "Titik #50",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62792776659566,
+          -6.973576390379616
+        ]
+      },
+      "properties": {
+        "title": "Titik #51",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63135712896948,
+          -6.981528956220443
+        ]
+      },
+      "properties": {
+        "title": "Titik #52",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63007463429413,
+          -6.969979173197508
+        ]
+      },
+      "properties": {
+        "title": "Titik #53",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6294970276336,
+          -6.975661961234997
+        ]
+      },
+      "properties": {
+        "title": "Titik #54",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62954122066238,
+          -6.973415854082322
+        ]
+      },
+      "properties": {
+        "title": "Titik #55",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63079102786382,
+          -6.970942139036767
+        ]
+      },
+      "properties": {
+        "title": "Titik #56",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62510177844761,
+          -6.977044587303789
+        ]
+      },
+      "properties": {
+        "title": "Titik #57",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63699725867562,
+          -6.9718959270193706
+        ]
+      },
+      "properties": {
+        "title": "Titik #58",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63140594212351,
+          -6.970804130562238
+        ]
+      },
+      "properties": {
+        "title": "Titik #59",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62863568794364,
+          -6.971664436199443
+        ]
+      },
+      "properties": {
+        "title": "Titik #60",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63434907000797,
+          -6.976404517025
+        ]
+      },
+      "properties": {
+        "title": "Titik #61",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62552993173975,
+          -6.977291401700883
+        ]
+      },
+      "properties": {
+        "title": "Titik #62",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62845585196601,
+          -6.976744292635547
+        ]
+      },
+      "properties": {
+        "title": "Titik #63",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62919290378933,
+          -6.971494742488368
+        ]
+      },
+      "properties": {
+        "title": "Titik #64",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63379210202531,
+          -6.97024351460722
+        ]
+      },
+      "properties": {
+        "title": "Titik #65",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62535656061293,
+          -6.972495799173224
+        ]
+      },
+      "properties": {
+        "title": "Titik #66",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63448898072195,
+          -6.971217908900646
+        ]
+      },
+      "properties": {
+        "title": "Titik #67",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63242566142375,
+          -6.973597057284998
+        ]
+      },
+      "properties": {
+        "title": "Titik #68",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63163078400977,
+          -6.977895136889704
+        ]
+      },
+      "properties": {
+        "title": "Titik #69",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63448211646204,
+          -6.9684222634618385
+        ]
+      },
+      "properties": {
+        "title": "Titik #70",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63439562763621,
+          -6.979629711501795
+        ]
+      },
+      "properties": {
+        "title": "Titik #71",
+        "description": "Titik uji sebaran luas kampus",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63625094981421,
+          -6.968552001917288
+        ]
+      },
+      "properties": {
+        "title": "Titik #72",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62641581738778,
+          -6.971379715036475
+        ]
+      },
+      "properties": {
+        "title": "Titik #73",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62916880396789,
+          -6.978245619888606
+        ]
+      },
+      "properties": {
+        "title": "Titik #74",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6330752917131,
+          -6.9765863031211675
+        ]
+      },
+      "properties": {
+        "title": "Titik #75",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62673485998965,
+          -6.969749135576067
+        ]
+      },
+      "properties": {
+        "title": "Titik #76",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63109402755344,
+          -6.969741084859792
+        ]
+      },
+      "properties": {
+        "title": "Titik #77",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62736874909238,
+          -6.971287708277065
+        ]
+      },
+      "properties": {
+        "title": "Titik #78",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62841658194561,
+          -6.9711721128570145
+        ]
+      },
+      "properties": {
+        "title": "Titik #79",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63480476160777,
+          -6.980137066939691
+        ]
+      },
+      "properties": {
+        "title": "Titik #80",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63481699233908,
+          -6.976077272791863
+        ]
+      },
+      "properties": {
+        "title": "Titik #81",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63687987625241,
+          -6.9797771484054065
+        ]
+      },
+      "properties": {
+        "title": "Titik #82",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63543897294723,
+          -6.976457692159752
+        ]
+      },
+      "properties": {
+        "title": "Titik #83",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63305024923052,
+          -6.975936194887597
+        ]
+      },
+      "properties": {
+        "title": "Titik #84",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62691211296375,
+          -6.98100603640247
+        ]
+      },
+      "properties": {
+        "title": "Titik #85",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62997811637341,
+          -6.973408672828077
+        ]
+      },
+      "properties": {
+        "title": "Titik #86",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63240123735451,
+          -6.9693345915455085
+        ]
+      },
+      "properties": {
+        "title": "Titik #87",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6276946569576,
+          -6.9783127500057835
+        ]
+      },
+      "properties": {
+        "title": "Titik #88",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63413279675495,
+          -6.969935267808048
+        ]
+      },
+      "properties": {
+        "title": "Titik #89",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62967519696628,
+          -6.96999787397175
+        ]
+      },
+      "properties": {
+        "title": "Titik #90",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63011747695306,
+          -6.980138940130188
+        ]
+      },
+      "properties": {
+        "title": "Titik #91",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63672094046792,
+          -6.979708476202844
+        ]
+      },
+      "properties": {
+        "title": "Titik #92",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6316703332985,
+          -6.979911948073754
+        ]
+      },
+      "properties": {
+        "title": "Titik #93",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62576049618762,
+          -6.972908907088275
+        ]
+      },
+      "properties": {
+        "title": "Titik #94",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63056310142275,
+          -6.974509567699266
+        ]
+      },
+      "properties": {
+        "title": "Titik #95",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62969700205377,
+          -6.9686453938687425
+        ]
+      },
+      "properties": {
+        "title": "Titik #96",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63534384766851,
+          -6.976105495043791
+        ]
+      },
+      "properties": {
+        "title": "Titik #97",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62806317125967,
+          -6.969415529197808
+        ]
+      },
+      "properties": {
+        "title": "Titik #98",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63005168255107,
+          -6.978931907388638
+        ]
+      },
+      "properties": {
+        "title": "Titik #99",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6342448719517,
+          -6.968948915108036
+        ]
+      },
+      "properties": {
+        "title": "Titik #100",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6379292481898,
+          -6.9752588462622365
+        ]
+      },
+      "properties": {
+        "title": "Titik #101",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62713395859322,
+          -6.972721963210761
+        ]
+      },
+      "properties": {
+        "title": "Titik #102",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62865775559465,
+          -6.981904193181442
+        ]
+      },
+      "properties": {
+        "title": "Titik #103",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62521116645455,
+          -6.972482768913399
+        ]
+      },
+      "properties": {
+        "title": "Titik #104",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63149144089925,
+          -6.974169615906954
+        ]
+      },
+      "properties": {
+        "title": "Titik #105",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63306845289492,
+          -6.9776559281404325
+        ]
+      },
+      "properties": {
+        "title": "Titik #106",
+        "description": "Titik uji sebaran luas kampus",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62896672043361,
+          -6.972050456617343
+        ]
+      },
+      "properties": {
+        "title": "Titik #107",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6378864741297,
+          -6.976284525081093
+        ]
+      },
+      "properties": {
+        "title": "Titik #108",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62890836315839,
+          -6.973028313765831
+        ]
+      },
+      "properties": {
+        "title": "Titik #109",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62869523936105,
+          -6.980512763063481
+        ]
+      },
+      "properties": {
+        "title": "Titik #110",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63733308165969,
+          -6.977925164635138
+        ]
+      },
+      "properties": {
+        "title": "Titik #111",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63099679760896,
+          -6.972950917017369
+        ]
+      },
+      "properties": {
+        "title": "Titik #112",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62594218461712,
+          -6.970068410339809
+        ]
+      },
+      "properties": {
+        "title": "Titik #113",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63592016399062,
+          -6.9717488852815315
+        ]
+      },
+      "properties": {
+        "title": "Titik #114",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62722136079138,
+          -6.9785457150926815
+        ]
+      },
+      "properties": {
+        "title": "Titik #115",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63305875349968,
+          -6.9795839738965375
+        ]
+      },
+      "properties": {
+        "title": "Titik #116",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63735934592093,
+          -6.97906463173875
+        ]
+      },
+      "properties": {
+        "title": "Titik #117",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62600761695143,
+          -6.975776541761698
+        ]
+      },
+      "properties": {
+        "title": "Titik #118",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62615859439688,
+          -6.97853846205822
+        ]
+      },
+      "properties": {
+        "title": "Titik #119",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625129990597,
+          -6.978593090864111
+        ]
+      },
+      "properties": {
+        "title": "Titik #120",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63576077391808,
+          -6.968988107949888
+        ]
+      },
+      "properties": {
+        "title": "Titik #121",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62870181299479,
+          -6.978891717796374
+        ]
+      },
+      "properties": {
+        "title": "Titik #122",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63354487249688,
+          -6.975858328983797
+        ]
+      },
+      "properties": {
+        "title": "Titik #123",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63169614201593,
+          -6.973488438699213
+        ]
+      },
+      "properties": {
+        "title": "Titik #124",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63517464720974,
+          -6.9768099499908525
+        ]
+      },
+      "properties": {
+        "title": "Titik #125",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63267559233691,
+          -6.974789156554718
+        ]
+      },
+      "properties": {
+        "title": "Titik #126",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62863977854552,
+          -6.97150256306431
+        ]
+      },
+      "properties": {
+        "title": "Titik #127",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63663889249014,
+          -6.977019610402333
+        ]
+      },
+      "properties": {
+        "title": "Titik #128",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62633377226022,
+          -6.9715597354236625
+        ]
+      },
+      "properties": {
+        "title": "Titik #129",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63686924040313,
+          -6.9798435177604645
+        ]
+      },
+      "properties": {
+        "title": "Titik #130",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63025200546717,
+          -6.9732812185059725
+        ]
+      },
+      "properties": {
+        "title": "Titik #131",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63726453137389,
+          -6.980931522047773
+        ]
+      },
+      "properties": {
+        "title": "Titik #132",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63650200243801,
+          -6.9758981748118964
+        ]
+      },
+      "properties": {
+        "title": "Titik #133",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63496574837053,
+          -6.968424353242725
+        ]
+      },
+      "properties": {
+        "title": "Titik #134",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63078033501682,
+          -6.977684746537034
+        ]
+      },
+      "properties": {
+        "title": "Titik #135",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62787799978118,
+          -6.974786302819244
+        ]
+      },
+      "properties": {
+        "title": "Titik #136",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63421929164156,
+          -6.969603737074176
+        ]
+      },
+      "properties": {
+        "title": "Titik #137",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63286782845033,
+          -6.974843926904215
+        ]
+      },
+      "properties": {
+        "title": "Titik #138",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63740049455104,
+          -6.980429468048856
+        ]
+      },
+      "properties": {
+        "title": "Titik #139",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63476646983128,
+          -6.975024310211465
+        ]
+      },
+      "properties": {
+        "title": "Titik #140",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62635656640836,
+          -6.979208701393194
+        ]
+      },
+      "properties": {
+        "title": "Titik #141",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63275283860943,
+          -6.978417748281389
+        ]
+      },
+      "properties": {
+        "title": "Titik #142",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62746566703446,
+          -6.97547655246025
+        ]
+      },
+      "properties": {
+        "title": "Titik #143",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62774849293515,
+          -6.97766077296152
+        ]
+      },
+      "properties": {
+        "title": "Titik #144",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62883806918016,
+          -6.978823477597697
+        ]
+      },
+      "properties": {
+        "title": "Titik #145",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63196390015084,
+          -6.980763774976843
+        ]
+      },
+      "properties": {
+        "title": "Titik #146",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6324084370845,
+          -6.969489982455735
+        ]
+      },
+      "properties": {
+        "title": "Titik #147",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6323643016303,
+          -6.973749127012229
+        ]
+      },
+      "properties": {
+        "title": "Titik #148",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63204569310643,
+          -6.981487227217035
+        ]
+      },
+      "properties": {
+        "title": "Titik #149",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62761996523706,
+          -6.979090705518785
+        ]
+      },
+      "properties": {
+        "title": "Titik #150",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63553965398557,
+          -6.979387131330692
+        ]
+      },
+      "properties": {
+        "title": "Titik #151",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63686899804314,
+          -6.979715759878978
+        ]
+      },
+      "properties": {
+        "title": "Titik #152",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6307105806815,
+          -6.971090663736458
+        ]
+      },
+      "properties": {
+        "title": "Titik #153",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6366745913176,
+          -6.978640290442168
+        ]
+      },
+      "properties": {
+        "title": "Titik #154",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63493794101973,
+          -6.976818049587527
+        ]
+      },
+      "properties": {
+        "title": "Titik #155",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63182374867652,
+          -6.9818188107991235
+        ]
+      },
+      "properties": {
+        "title": "Titik #156",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63033710981792,
+          -6.980559334674429
+        ]
+      },
+      "properties": {
+        "title": "Titik #157",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6255890080064,
+          -6.9753660242484745
+        ]
+      },
+      "properties": {
+        "title": "Titik #158",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63094592970512,
+          -6.9795054571870265
+        ]
+      },
+      "properties": {
+        "title": "Titik #159",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63272383618866,
+          -6.969825671333306
+        ]
+      },
+      "properties": {
+        "title": "Titik #160",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62622077167624,
+          -6.970254869509768
+        ]
+      },
+      "properties": {
+        "title": "Titik #161",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63248376549132,
+          -6.974729067044361
+        ]
+      },
+      "properties": {
+        "title": "Titik #162",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63008376985857,
+          -6.976569839093228
+        ]
+      },
+      "properties": {
+        "title": "Titik #163",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6342398207191,
+          -6.97701874438076
+        ]
+      },
+      "properties": {
+        "title": "Titik #164",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63791210975765,
+          -6.97972434512724
+        ]
+      },
+      "properties": {
+        "title": "Titik #165",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63375006288993,
+          -6.974606858615493
+        ]
+      },
+      "properties": {
+        "title": "Titik #166",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62801696259805,
+          -6.977214851740385
+        ]
+      },
+      "properties": {
+        "title": "Titik #167",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63593760192093,
+          -6.972040027073395
+        ]
+      },
+      "properties": {
+        "title": "Titik #168",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6254672645436,
+          -6.9806809145974045
+        ]
+      },
+      "properties": {
+        "title": "Titik #169",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63227789380058,
+          -6.9726159149267435
+        ]
+      },
+      "properties": {
+        "title": "Titik #170",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63080468140735,
+          -6.981066907563066
+        ]
+      },
+      "properties": {
+        "title": "Titik #171",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63238595710062,
+          -6.97842013009962
+        ]
+      },
+      "properties": {
+        "title": "Titik #172",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62929700420798,
+          -6.969431052206085
+        ]
+      },
+      "properties": {
+        "title": "Titik #173",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62808255465852,
+          -6.972489812207205
+        ]
+      },
+      "properties": {
+        "title": "Titik #174",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6347079984733,
+          -6.9811346943030195
+        ]
+      },
+      "properties": {
+        "title": "Titik #175",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6354283841638,
+          -6.979549420264394
+        ]
+      },
+      "properties": {
+        "title": "Titik #176",
+        "description": "Titik uji sebaran luas kampus",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6312918599916,
+          -6.9712466592176625
+        ]
+      },
+      "properties": {
+        "title": "Titik #177",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63365005346945,
+          -6.969764299889444
+        ]
+      },
+      "properties": {
+        "title": "Titik #178",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63175224522341,
+          -6.975167692113443
+        ]
+      },
+      "properties": {
+        "title": "Titik #179",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62901418008994,
+          -6.968472217497973
+        ]
+      },
+      "properties": {
+        "title": "Titik #180",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6299392901426,
+          -6.973447366792233
+        ]
+      },
+      "properties": {
+        "title": "Titik #181",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6305667544707,
+          -6.980707524900243
+        ]
+      },
+      "properties": {
+        "title": "Titik #182",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62774964028365,
+          -6.981928456286215
+        ]
+      },
+      "properties": {
+        "title": "Titik #183",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63599716169018,
+          -6.981793315825554
+        ]
+      },
+      "properties": {
+        "title": "Titik #184",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63270797703089,
+          -6.9706569362224595
+        ]
+      },
+      "properties": {
+        "title": "Titik #185",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63398521693253,
+          -6.9720547257451795
+        ]
+      },
+      "properties": {
+        "title": "Titik #186",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62594027369543,
+          -6.971918512804691
+        ]
+      },
+      "properties": {
+        "title": "Titik #187",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62641489709378,
+          -6.97912468185577
+        ]
+      },
+      "properties": {
+        "title": "Titik #188",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6278986135103,
+          -6.974062971645744
+        ]
+      },
+      "properties": {
+        "title": "Titik #189",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62903089744437,
+          -6.980135940603946
+        ]
+      },
+      "properties": {
+        "title": "Titik #190",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62507294836969,
+          -6.972496827643869
+        ]
+      },
+      "properties": {
+        "title": "Titik #191",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63026966470478,
+          -6.972404455095873
+        ]
+      },
+      "properties": {
+        "title": "Titik #192",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63619051616547,
+          -6.974228015835838
+        ]
+      },
+      "properties": {
+        "title": "Titik #193",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62629244412786,
+          -6.981994571129779
+        ]
+      },
+      "properties": {
+        "title": "Titik #194",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62519646037643,
+          -6.975256645044423
+        ]
+      },
+      "properties": {
+        "title": "Titik #195",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6379420909178,
+          -6.979113535243377
+        ]
+      },
+      "properties": {
+        "title": "Titik #196",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.630768476001,
+          -6.980381512124606
+        ]
+      },
+      "properties": {
+        "title": "Titik #197",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63050031624631,
+          -6.9755368999797325
+        ]
+      },
+      "properties": {
+        "title": "Titik #198",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62838412677442,
+          -6.968905983374922
+        ]
+      },
+      "properties": {
+        "title": "Titik #199",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63509496397623,
+          -6.973519902591637
+        ]
+      },
+      "properties": {
+        "title": "Titik #200",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62985086893843,
+          -6.981502914908644
+        ]
+      },
+      "properties": {
+        "title": "Titik #201",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63539584933764,
+          -6.981344516777348
+        ]
+      },
+      "properties": {
+        "title": "Titik #202",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62584192884833,
+          -6.976557354866646
+        ]
+      },
+      "properties": {
+        "title": "Titik #203",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62930281137876,
+          -6.968210934583336
+        ]
+      },
+      "properties": {
+        "title": "Titik #204",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63797008248967,
+          -6.979663450542757
+        ]
+      },
+      "properties": {
+        "title": "Titik #205",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63188261010494,
+          -6.97984622732724
+        ]
+      },
+      "properties": {
+        "title": "Titik #206",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62764506144644,
+          -6.9780827326054204
+        ]
+      },
+      "properties": {
+        "title": "Titik #207",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62604332471615,
+          -6.977379513930438
+        ]
+      },
+      "properties": {
+        "title": "Titik #208",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6372025125693,
+          -6.980077463801543
+        ]
+      },
+      "properties": {
+        "title": "Titik #209",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63017508633912,
+          -6.9741182900295735
+        ]
+      },
+      "properties": {
+        "title": "Titik #210",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6346925813617,
+          -6.975030980860502
+        ]
+      },
+      "properties": {
+        "title": "Titik #211",
+        "description": "Titik uji sebaran luas kampus",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63606572569572,
+          -6.976362546468477
+        ]
+      },
+      "properties": {
+        "title": "Titik #212",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62504990671334,
+          -6.9712964364281556
+        ]
+      },
+      "properties": {
+        "title": "Titik #213",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63093601488853,
+          -6.970472805768979
+        ]
+      },
+      "properties": {
+        "title": "Titik #214",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63724731400234,
+          -6.970873354414746
+        ]
+      },
+      "properties": {
+        "title": "Titik #215",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6296568690585,
+          -6.981320289751928
+        ]
+      },
+      "properties": {
+        "title": "Titik #216",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63662721949345,
+          -6.980158715509184
+        ]
+      },
+      "properties": {
+        "title": "Titik #217",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63134931951785,
+          -6.977018267403684
+        ]
+      },
+      "properties": {
+        "title": "Titik #218",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62642651074515,
+          -6.977287058270851
+        ]
+      },
+      "properties": {
+        "title": "Titik #219",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63458180575422,
+          -6.97674502766518
+        ]
+      },
+      "properties": {
+        "title": "Titik #220",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63401286008654,
+          -6.972223124884814
+        ]
+      },
+      "properties": {
+        "title": "Titik #221",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63335931584089,
+          -6.980628078618281
+        ]
+      },
+      "properties": {
+        "title": "Titik #222",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62884540913353,
+          -6.971297735009075
+        ]
+      },
+      "properties": {
+        "title": "Titik #223",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62876526050391,
+          -6.98048139547462
+        ]
+      },
+      "properties": {
+        "title": "Titik #224",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6302537694353,
+          -6.981009290977876
+        ]
+      },
+      "properties": {
+        "title": "Titik #225",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.633299047775,
+          -6.976182641384335
+        ]
+      },
+      "properties": {
+        "title": "Titik #226",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63380126214801,
+          -6.978895686318394
+        ]
+      },
+      "properties": {
+        "title": "Titik #227",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62739092779113,
+          -6.981891676813971
+        ]
+      },
+      "properties": {
+        "title": "Titik #228",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62749416714126,
+          -6.975042770506827
+        ]
+      },
+      "properties": {
+        "title": "Titik #229",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62691785635607,
+          -6.972572822276975
+        ]
+      },
+      "properties": {
+        "title": "Titik #230",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63134766710182,
+          -6.978951701597937
+        ]
+      },
+      "properties": {
+        "title": "Titik #231",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63240519401384,
+          -6.979558244906092
+        ]
+      },
+      "properties": {
+        "title": "Titik #232",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62674199439093,
+          -6.970497373337844
+        ]
+      },
+      "properties": {
+        "title": "Titik #233",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62628730813964,
+          -6.980732400856966
+        ]
+      },
+      "properties": {
+        "title": "Titik #234",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62916371195195,
+          -6.973692397131875
+        ]
+      },
+      "properties": {
+        "title": "Titik #235",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63169439707193,
+          -6.975270239126215
+        ]
+      },
+      "properties": {
+        "title": "Titik #236",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62574612471931,
+          -6.9714149491996835
+        ]
+      },
+      "properties": {
+        "title": "Titik #237",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63334352292685,
+          -6.975495178181872
+        ]
+      },
+      "properties": {
+        "title": "Titik #238",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63719070219247,
+          -6.972767668970839
+        ]
+      },
+      "properties": {
+        "title": "Titik #239",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63760000323798,
+          -6.972625896779899
+        ]
+      },
+      "properties": {
+        "title": "Titik #240",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63037298266417,
+          -6.9761962807065
+        ]
+      },
+      "properties": {
+        "title": "Titik #241",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62928245133904,
+          -6.970972768442599
+        ]
+      },
+      "properties": {
+        "title": "Titik #242",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62587205637561,
+          -6.970022885385606
+        ]
+      },
+      "properties": {
+        "title": "Titik #243",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63447808202079,
+          -6.970118244551449
+        ]
+      },
+      "properties": {
+        "title": "Titik #244",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63411424910247,
+          -6.978748059761652
+        ]
+      },
+      "properties": {
+        "title": "Titik #245",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63224070621881,
+          -6.977898462285436
+        ]
+      },
+      "properties": {
+        "title": "Titik #246",
+        "description": "Titik uji sebaran luas kampus",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62636044076754,
+          -6.975333615239204
+        ]
+      },
+      "properties": {
+        "title": "Titik #247",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63496646081391,
+          -6.968899565618873
+        ]
+      },
+      "properties": {
+        "title": "Titik #248",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63004976386243,
+          -6.977897553802005
+        ]
+      },
+      "properties": {
+        "title": "Titik #249",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6334457493774,
+          -6.978048819684851
+        ]
+      },
+      "properties": {
+        "title": "Titik #250",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63611027362009,
+          -6.975916456376267
+        ]
+      },
+      "properties": {
+        "title": "Titik #251",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62740132690969,
+          -6.977345795503691
+        ]
+      },
+      "properties": {
+        "title": "Titik #252",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63231334331934,
+          -6.970335044379562
+        ]
+      },
+      "properties": {
+        "title": "Titik #253",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62600369998532,
+          -6.9694122420448466
+        ]
+      },
+      "properties": {
+        "title": "Titik #254",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6278615683716,
+          -6.981694939175422
+        ]
+      },
+      "properties": {
+        "title": "Titik #255",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62674108296643,
+          -6.979955361775149
+        ]
+      },
+      "properties": {
+        "title": "Titik #256",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63020366280091,
+          -6.97743841646655
+        ]
+      },
+      "properties": {
+        "title": "Titik #257",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63560813433877,
+          -6.9749326019101545
+        ]
+      },
+      "properties": {
+        "title": "Titik #258",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63291737898017,
+          -6.974492429610857
+        ]
+      },
+      "properties": {
+        "title": "Titik #259",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62527155304699,
+          -6.975709956696345
+        ]
+      },
+      "properties": {
+        "title": "Titik #260",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63567479680906,
+          -6.978934295567382
+        ]
+      },
+      "properties": {
+        "title": "Titik #261",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62800078230934,
+          -6.975735336880946
+        ]
+      },
+      "properties": {
+        "title": "Titik #262",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62716784121604,
+          -6.968361144805508
+        ]
+      },
+      "properties": {
+        "title": "Titik #263",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63289010025603,
+          -6.97474292535522
+        ]
+      },
+      "properties": {
+        "title": "Titik #264",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6316250446107,
+          -6.972814140337406
+        ]
+      },
+      "properties": {
+        "title": "Titik #265",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63700542327221,
+          -6.977592508777041
+        ]
+      },
+      "properties": {
+        "title": "Titik #266",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63121454930592,
+          -6.977353842031186
+        ]
+      },
+      "properties": {
+        "title": "Titik #267",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62528898740598,
+          -6.979061887333314
+        ]
+      },
+      "properties": {
+        "title": "Titik #268",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63711402782728,
+          -6.981181309773264
+        ]
+      },
+      "properties": {
+        "title": "Titik #269",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63587192473283,
+          -6.969397030708725
+        ]
+      },
+      "properties": {
+        "title": "Titik #270",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62644892506192,
+          -6.97387816455755
+        ]
+      },
+      "properties": {
+        "title": "Titik #271",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6254813072634,
+          -6.977818028960532
+        ]
+      },
+      "properties": {
+        "title": "Titik #272",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62560969537226,
+          -6.972771596283835
+        ]
+      },
+      "properties": {
+        "title": "Titik #273",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63034300223669,
+          -6.974036433529248
+        ]
+      },
+      "properties": {
+        "title": "Titik #274",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63149480234165,
+          -6.980681249768313
+        ]
+      },
+      "properties": {
+        "title": "Titik #275",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63191637714017,
+          -6.977257848961203
+        ]
+      },
+      "properties": {
+        "title": "Titik #276",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63715073755458,
+          -6.975810430714829
+        ]
+      },
+      "properties": {
+        "title": "Titik #277",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63398405716745,
+          -6.9759229832269165
+        ]
+      },
+      "properties": {
+        "title": "Titik #278",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63402982911833,
+          -6.979706424808757
+        ]
+      },
+      "properties": {
+        "title": "Titik #279",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62699971270294,
+          -6.968904174108369
+        ]
+      },
+      "properties": {
+        "title": "Titik #280",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62530367207874,
+          -6.975287793853384
+        ]
+      },
+      "properties": {
+        "title": "Titik #281",
+        "description": "Titik uji sebaran luas kampus",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=640&q=80",
+        "link": "https://example.com/info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63107996379259,
+          -6.9684500237649365
+        ]
+      },
+      "properties": {
+        "title": "Titik #282",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62621688695464,
+          -6.9686915365582935
+        ]
+      },
+      "properties": {
+        "title": "Titik #283",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62868692055326,
+          -6.980567614800869
+        ]
+      },
+      "properties": {
+        "title": "Titik #284",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63198236732558,
+          -6.973569978547089
+        ]
+      },
+      "properties": {
+        "title": "Titik #285",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62877316248593,
+          -6.968697742541633
+        ]
+      },
+      "properties": {
+        "title": "Titik #286",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63627338660311,
+          -6.979351851737561
+        ]
+      },
+      "properties": {
+        "title": "Titik #287",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62804601179573,
+          -6.980445742464284
+        ]
+      },
+      "properties": {
+        "title": "Titik #288",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6253975165199,
+          -6.981131102967093
+        ]
+      },
+      "properties": {
+        "title": "Titik #289",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62904938525269,
+          -6.969557295193991
+        ]
+      },
+      "properties": {
+        "title": "Titik #290",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62617691522642,
+          -6.975296605778279
+        ]
+      },
+      "properties": {
+        "title": "Titik #291",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62836843512987,
+          -6.972166047725039
+        ]
+      },
+      "properties": {
+        "title": "Titik #292",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63175020505808,
+          -6.971949841107008
+        ]
+      },
+      "properties": {
+        "title": "Titik #293",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62873051012137,
+          -6.969515973400919
+        ]
+      },
+      "properties": {
+        "title": "Titik #294",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62668636787235,
+          -6.980973243380118
+        ]
+      },
+      "properties": {
+        "title": "Titik #295",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6258830545497,
+          -6.980970264687653
+        ]
+      },
+      "properties": {
+        "title": "Titik #296",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63027939021221,
+          -6.976773378945585
+        ]
+      },
+      "properties": {
+        "title": "Titik #297",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63408372494658,
+          -6.981459578843401
+        ]
+      },
+      "properties": {
+        "title": "Titik #298",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6254165083505,
+          -6.969505936524321
+        ]
+      },
+      "properties": {
+        "title": "Titik #299",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6364660961155,
+          -6.975302723586492
+        ]
+      },
+      "properties": {
+        "title": "Titik #300",
+        "description": "Titik uji sebaran luas kampus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6309,
+          -6.9742
+        ]
+      },
+      "properties": {
+        "title": "Perpustakaan",
+        "description": "Gedung perpustakaan kampus",
+        "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=640&q=80",
+        "link": "https://perpus.kampus.ac.id"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6321,
+          -6.975
+        ]
+      },
+      "properties": {
+        "title": "GKU",
+        "description": "Gedung Kuliah Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.634106,
+          -6.972673
+        ]
+      },
+      "properties": {
+        "title": "WDP NIH",
+        "description": "https://endgame-bd-2025.streamlit.app/"
+      }
+    }
+  ]
+}
