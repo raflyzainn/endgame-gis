@@ -4267,7 +4267,7 @@
       },
       "properties": {
         "title": "WDP NIH SELAMAT ANDA BENAR",
-        "description": "https://endgame-bd-2025.streamlit.app/"
+        "description": "https://bit.ly/EndgameBD25"
       }
     },
     {
@@ -18607,8 +18607,296 @@
       },
       "properties": {
         "name": "Telkom-1000",
-        "description": "unclear info"
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63543386750338,
+          -6.971129375242819
+        ]
+      },
+      "properties": {
+        "name": "Kosan BG MUNAWIR",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63385951998046,
+          -6.972741004893751
+        ]
+      },
+      "properties": {
+        "name": "apa sih ini?",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63369400476874,
+          -6.972880181370788
+        ]
+      },
+      "properties": {
+        "name": "bener ini gak ya?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.633545,
+          -6.973218
+        ]
+      },
+      "properties": {
+        "name": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63373999982886,
+          -6.972828726370853
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "kayanya bukan yang ini deh "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           107.63376889410883,
+           -6.972991686150457
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           107.63360259714217,
+           -6.973148765952569
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           107.63348793270146,
+           -6.973267241361689
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.63339935572739, 
+            -6.973340705481352
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "kayanya bukan yang ini juga deh "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.63327530356042, -6.973465171172019
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+             107.6330795022962,
+             -6.973659523945153
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "kayanya bukan yang ini juga deh "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+              107.63322434158972,
+              -6.973514424965973
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+              107.63328670295222,
+              -6.973514424965973
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+              107.63399784739406,
+              -6.972749592069176
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+               107.63402198727633,
+               -6.972726296319279
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-juga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        107.63403405721743, -6.972726296319279
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "kayanya bukan yang ini juga deh "
+      }
+    },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        107.63401125843974, -6.972726296319279
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         107.63392073388131,-6.972825469646492
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         107.63389458234218, -6.972840112686309
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         107.63404143329257, -6.972774219003505
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63392609829957, -6.972854755725669
+        ]
+      },
+      "properties": {
+        "title": "wdp bukan sih?",
+        "description": "https://bit.ly/endgame-bd-nih"
       }
     }
+
   ]
 }
